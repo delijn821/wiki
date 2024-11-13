@@ -11,7 +11,7 @@
 > - **Materieel**: VDL Citea SLE120.280Hybrid, VDL Citea SLFA180Hybrid, Scania Citywide LE, Van Hool newA360H
 
 ## Reisweg (haltes)
-#### **Zaventem**
+### **Zaventem**
 
 **Zaventem Brussels Airport**
 
@@ -21,7 +21,7 @@ Gebouw 9
 
 B-House
 
-#### **Machelen**
+### **Machelen**
 
 Korenberg
 
@@ -34,38 +34,70 @@ Cargo Post Zuid
 Cargo 706
 
 **Machelen Cargo Discount P1**
+
 Heirbaan
-#### **Vilvoorde**
+
+### **Vilvoorde**
+
 Levis
+
 Fabrieksstraat
+
 **Vilvoorde Station**
+
 Heldenplein
+
 Kassei
+
 Breemput
-#### **Grimbergen**
+
+### **Grimbergen**
+
 Oude Schapenbaan
+
 Delhaize
+
 Klont
+
 Abdij
+
 **Grimbergen Stelplaats**
+
 Waardbeek
+
 Biesthoek
-#### **Meise**
+
+### **Meise**
+
 Dreef
+
 Limbos
+
 Oratorienlaan
+
 De Donderstraat
+
 Van Dievoetlaan
+
 Oppem-Hasselt
+
 Hasseltbergstraat
+
 Oppem Kerk
-#### **Wolvertem**
+
+### **Wolvertem**
+
 Oppemse Hoeve
+
 **Wolvertem Gemeenteplein**
+
 Driesstraat
+
 Meuzegemstraat
+
 Windmolenkouter
-#### **Merchtem**
+
+### **Merchtem**
 Kleistraat
 Dooren
 Drypikkel
@@ -76,7 +108,7 @@ Varkensmarkt
 Ter Dreef
 Sint-Janstraat
 Koutermolen
-#### **Peizegem**
+### **Peizegem**
 Tuinbouwschool
 **Peizegem Kerkplein**
 
