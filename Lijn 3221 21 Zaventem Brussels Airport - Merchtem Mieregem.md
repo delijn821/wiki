@@ -10,22 +10,64 @@
 > - **Onderaannemer**: De Decker-Van Riet
 > - **Materieel**: VDL Citea SLE120.280Hybrid, VDL Citea SLFA180Hybrid, Scania Citywide LE, Van Hool newA360H
 
-## Route
-### Belangrijkste Haltes
-1. Zaventem Brussels Airport
-2. Machelen Cargo Discount P1
-3. Vilvoorde Station
-4. Grimbergen Stelplaats
-5. Wolvertem Gemeenteplen
-6. Merchtem Mieregem
-7. Peizegem Kerkplein
-
-### Reisweg (haltes)
-- **Zaventem Brussels Airport**
-- Brucargo
-- Vilvoorde Station
-- Jette Station
-- **Merchtem Mieregem**
+## Reisweg (haltes)
+####**Zaventem**
+**Zaventem Brussels Airport**
+Technics Noord
+Gebouw 9
+B-House
+####**Machelen**
+Korenberg
+Sector 8
+Cargo West
+Cargo Post Zuid
+Cargo 706
+**Machelen Cargo Discount P1**
+Heirbaan
+####**Vilvoorde**
+Levis
+Fabrieksstraat
+**Vilvoorde Station**
+Heldenplein
+Kassei
+Breemput
+####**Grimbergen**
+Oude Schapenbaan
+Delhaize
+Klont
+Abdij
+**Grimbergen Stelplaats**
+Waardbeek
+Biesthoek
+####**Meise**
+Dreef
+Limbos
+Oratorienlaan
+De Donderstraat
+Van Dievoetlaan
+Oppem-Hasselt
+Hasseltbergstraat
+Oppem Kerk
+####**Wolvertem**
+Oppemse Hoeve
+**Wolvertem Gemeenteplein**
+Driesstraat
+Meuzegemstraat
+Windmolenkouter
+####**Merchtem**
+Kleistraat
+Dooren
+Drypikkel
+Bleukenweg
+Varkensmarkt
+**Merchtem Mieregem**
+Varkensmarkt
+Ter Dreef
+Sint-Janstraat
+Koutermolen
+####**Peizegem**
+Tuinbouwschool
+**Peizegem Kerkplein**
 
 
 ## Voertuiginformatie
