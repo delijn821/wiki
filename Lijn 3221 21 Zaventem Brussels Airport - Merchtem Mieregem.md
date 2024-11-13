@@ -12,16 +12,27 @@
 
 ## Reisweg (haltes)
 ####**Zaventem**
+
 **Zaventem Brussels Airport**
+
 Technics Noord
+
 Gebouw 9
+
 B-House
+
 ####**Machelen**
+
 Korenberg
+
 Sector 8
+
 Cargo West
+
 Cargo Post Zuid
+
 Cargo 706
+
 **Machelen Cargo Discount P1**
 Heirbaan
 ####**Vilvoorde**
