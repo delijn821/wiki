@@ -4,6 +4,7 @@
 
 > ### Informatie Lijn 21
 > - **Lijnnummer**: 21
+> - **Hastus nummer**: 3221
 > - **Lijnkleur**: Lichtgroen
 > - **Vervoerregio**: Vlaamse Rand
 > - **Stelplaats**: Grimbergen
@@ -11,6 +12,7 @@
 > - **Materieel**: VDL Citea SLE120.280Hybrid, VDL Citea SLFA180Hybrid, Scania Citywide LE, Van Hool newA360H
 
 ## Reisweg (haltes)
+
 ### **Zaventem**
 
 **Zaventem Brussels Airport**
@@ -98,26 +100,31 @@ Meuzegemstraat
 Windmolenkouter
 
 ### **Merchtem**
+
 Kleistraat
+
 Dooren
+
 Drypikkel
+
 Bleukenweg
+
 Varkensmarkt
+
 **Merchtem Mieregem**
+
 Varkensmarkt
+
 Ter Dreef
+
 Sint-Janstraat
+
 Koutermolen
+
 ### **Peizegem**
+
 Tuinbouwschool
+
 **Peizegem Kerkplein**
-
-
-## Voertuiginformatie
-De bussen op deze lijn zijn doorgaans **gelede bussen** van **18 meter** lang.
-
-![Gelede bus](https://example.com/geledebus.jpg)
-
----
 
 [Terug naar overzicht](../README.md)
