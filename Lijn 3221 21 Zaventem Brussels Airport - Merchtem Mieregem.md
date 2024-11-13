@@ -6,10 +6,9 @@
 > - **Lijnnummer**: 21
 > - **Lijnkleur**: Lichtgroen
 > - **Vervoerregio**: Vlaamse Rand
+> - **Stelplaats**: Grimbergen
 > - **Onderaannemer**: De Decker-Van Riet
-> -                   Keolis Autobussen De Reys
-> - **Materieel**: Standaardbussen (12m), Gelede bussen (18m)
-
+> - **Materieel**: VDL Citea SLE120.280Hybrid, VDL Citea SLFA180Hybrid, Scania Citywide LE, Van Hool newA360H
 
 ## Route
 ### Belangrijkste Haltes
@@ -21,12 +20,13 @@
 6. Merchtem Mieregem
 7. Peizegem Kerkplein
 
-### Reisweg
-| Plaats     | Halte             |
-|------------|-------------------|
-|Zaventem    |Brussels Airport   |
-| Zaventem   | Technics Noord    |
-| Vilvoorde  | Station           |
+### Reisweg (haltes)
+- **Zaventem Brussels Airport**
+- Brucargo
+- Vilvoorde Station
+- Jette Station
+- **Merchtem Mieregem**
+
 
 ## Voertuiginformatie
 De bussen op deze lijn zijn doorgaans **gelede bussen** van **18 meter** lang.
