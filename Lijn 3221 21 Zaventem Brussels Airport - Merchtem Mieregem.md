@@ -2,6 +2,13 @@
 
 **Lijn 21** verbindt Zaventem Brussels Airport met Merchtem Mieregem via Cargo, Vilvoorde, Grimbergen, Meise en Wolvertem.
 
+> ### Informatie Lijn 21
+> - **Lijnnummer**: 🟦 **Lijn 21**
+> - **Vervoerregio**: Vlaams-Brabant
+> - **Onderaannemer**: Keolis
+> - **Materieel**: Standaardbussen (12m), Gelede bussen (18m)
+
+
 ## Route
 ### Belangrijkste Haltes
 1. Zaventem Brussels Airport
